@@ -2,7 +2,7 @@ game.StarterGui:SetCore(
         "SendNotification",
         {
             Title = "Loading",
-            Text = "YouTube Turbo Lite",
+            Text = "Vui Lòng Đợi",
             Duration = 5
         }
     )
